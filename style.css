@@ -1,4 +1,13 @@
 body {
-  display: flex;
-  justify-content: center;
+  max-width: 1080px;
+  margin: auto;
+}
+
+.item {
+  margin: 8px;
+}
+
+.item .image {
+  width: 24px;
+  height: 24px;
 }
